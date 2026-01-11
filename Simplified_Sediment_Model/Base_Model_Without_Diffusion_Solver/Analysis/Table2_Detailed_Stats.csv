@@ -1,0 +1,6 @@
+Statistic,Value,Interpretation
+Mean Measured SSC,0.06616923076923077,Baseline condition
+Mean Modelled SSC,0.07912453307375258,Systematic overestimation
+Mean Difference,-0.012955302304521795,Model overestimates measured SSC
+RMSE,0.04800267561168435,Overall prediction accuracy
+R2,0.1409073988319106,Moderate linear relationship; model explains 14.1% of variance
